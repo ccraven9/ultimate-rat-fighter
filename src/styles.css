@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-image: linear-gradient(90deg, rgba(0,0,0,1) 41%, rgba(87,5,77,0.4906337535014006) 100%), 
+    url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63c89dfe-87ba-4f45-968a-35ad5cc47cb6/d7j3ia9-1fa68c62-9b60-42da-8ecf-c2f2ed40635f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzYzg5ZGZlLTg3YmEtNGY0NS05NjhhLTM1YWQ1Y2M0N2NiNlwvZDdqM2lhOS0xZmE2OGM2Mi05YjYwLTQyZGEtOGVjZi1jMmYyZWQ0MDYzNWYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9giqG8nY1DfXwTc2xLI1EdBorBnuJ-4S6OiEu4ldPvU');
+    background-size: cover;
+    margin: 0;
+}
+
+
+
+

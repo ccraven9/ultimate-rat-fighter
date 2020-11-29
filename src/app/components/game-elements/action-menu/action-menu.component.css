@@ -1,0 +1,9 @@
+.player-details-box{
+    /* width: 60%; */
+    border: 10px solid black;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 41%, rgba(87,5,77,1) 100%);    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 38%;
+    margin-bottom: 4%;
+}

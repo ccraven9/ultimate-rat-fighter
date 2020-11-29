@@ -1,0 +1,49 @@
+.game-screen{
+    height: auto;
+    width: 100%;
+    max-height: 800px;
+    background-size: auto;
+}
+
+.full-screen{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.render-container{
+    /* flex-direction: row; */
+    height: 50%;
+    width: 40%;
+    border: 1px solid purple;
+    
+}
+
+.action-menu-container{
+    height: 50%;
+    width: 20%;
+    border: 1px solid white;
+}
+
+.detil-container{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    border: 1px solid red;
+}
+
+.action-content{
+    height: 100%;
+    width: 100%;
+}
+
+.player-render {
+    margin-right: 50%;
+    margin-left: 10%;
+}
+
+.player-image{
+    height: 470px;
+    width: auto;
+}

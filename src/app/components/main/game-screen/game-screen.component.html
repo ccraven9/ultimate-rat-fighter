@@ -1,0 +1,24 @@
+<div [style.background-image]="backGroundURL" class="game-screen" id="background">
+    <div class="full-screen" id="full-content">
+        <div class="render-container" id="action-render">
+            <div class="action-content" id="full height half width">
+                100
+            </div>
+            <div class="action-content" id="full height half width">
+                100
+            </div>
+        </div>
+        <div class="detil-container">
+            <div class="render-container" id="half height full width">
+                <app-player-details></app-player-details>
+            </div>
+            <div class="action-menu-container" id="action-menu">
+                <app-action-menu></app-action-menu>
+            </div>
+            <div class="render-container" id="half height full width">
+                    <!-- <app-player-details></app-player-details> -->
+                    <app-enemy-details></app-enemy-details>
+                </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+.full-page {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    border: 2px solid blue;
+    box-sizing: border-box;
+    color: white;
+}
+
+.header{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    border: 1px solid blue;
+}
+
+.content-sizer {
+    padding: 1%;
+}
+
+.content {
+    box-sizing: border-box;
+    border: 1px solid green;
+    width: 100%;
+    height: 100%;
+}
